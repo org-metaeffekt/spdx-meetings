@@ -26,3 +26,10 @@
 
 - Revisit postponed items
 
+## References
+
+- https://basic-formal-ontology.org/
+- https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_004.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7071388/
+- https://github.com/spdx/spdx-spec/pull/1356/changes
+
