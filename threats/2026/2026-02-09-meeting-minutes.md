@@ -2,10 +2,6 @@
 
 ## Attendees
 
-- Jenn Power
-- Jason Garman
-- Karen Bennet
-
 - Raymond Sheh
 - Victor Lu
 - Rithikha Rajamohan
